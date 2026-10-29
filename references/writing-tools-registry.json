@@ -1,0 +1,1124 @@
+[
+  {
+    "id": 1,
+    "section": 1,
+    "original_paraphrase": "Put the actor and action early",
+    "diagnostic_fit": "Readers wait too long to learn who did what",
+    "expected_impact": "Faster initial comprehension",
+    "guardrail": "A delayed opening may be intentional for suspense, transition, or rhythm",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "After several rounds of testing on Friday, the release manager approved the patch.",
+      "after": "The release manager approved the patch after several rounds of testing on Friday.",
+      "why": "The actor and governing action arrive before circumstances."
+    }
+  },
+  {
+    "id": 2,
+    "section": 1,
+    "original_paraphrase": "Reserve sentence edges for emphasis",
+    "diagnostic_fit": "The key idea is buried mid-sentence",
+    "expected_impact": "Better salience and recall",
+    "guardrail": "Do not force every sentence into a dramatic landing",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The team found a broken permission check in the last test, unexpectedly.",
+      "after": "In the last test, the team found a broken permission check.",
+      "why": "The consequential discovery now lands at the sentence end without added drama."
+    }
+  },
+  {
+    "id": 3,
+    "section": 1,
+    "original_paraphrase": "Replace weak constructions with active verbs",
+    "diagnostic_fit": "Nominalizations, helper verbs, or vague action drain energy",
+    "expected_impact": "More movement, fewer words, clearer agency",
+    "guardrail": "Preserve technical precision and owner cadence",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "We conducted an investigation of the error.",
+      "after": "We investigated the error.",
+      "why": "A precise verb replaces a noun and helper verb."
+    }
+  },
+  {
+    "id": 4,
+    "section": 1,
+    "original_paraphrase": "Use passive focus deliberately",
+    "diagnostic_fit": "The affected person or result matters more than the actor, or the actor is unknown",
+    "expected_impact": "Correct emphasis and ethical focus",
+    "guardrail": "Passive voice must not conceal responsible actors",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "An unknown person deleted the backup.",
+      "after": "The backup was deleted; we do not yet know who deleted it.",
+      "why": "Passive focus fits the known loss; uncertainty is explicit rather than hidden."
+    }
+  },
+  {
+    "id": 5,
+    "section": 1,
+    "original_paraphrase": "Make every adverb earn its place",
+    "diagnostic_fit": "An adverb repeats the verb or supplies vague intensity",
+    "expected_impact": "Greater precision and trust",
+    "guardrail": "Keep adverbs that materially change meaning or belong to the owner's voice",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "She sprinted quickly to the gate.",
+      "after": "She sprinted to the gate.",
+      "why": "Quickly adds nothing to sprinted; slowly would change the meaning and must stay."
+    }
+  },
+  {
+    "id": 6,
+    "section": 1,
+    "original_paraphrase": "Reduce unnecessary continuous forms",
+    "diagnostic_fit": "Chains of `-ing` forms obscure time or weaken action",
+    "expected_impact": "Cleaner tense and chronology",
+    "guardrail": "Continuous action may be the exact meaning",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "We are making a plan to be reviewing the logs.",
+      "after": "We plan to review the logs.",
+      "why": "Simplifies unnecessary progressive phrasing without changing timing."
+    }
+  },
+  {
+    "id": 7,
+    "section": 1,
+    "original_paraphrase": "Use controlled long sentences",
+    "diagnostic_fit": "Related ideas have been chopped into exhausting fragments",
+    "expected_impact": "Sustained logical or narrative flow",
+    "guardrail": "The reader must still retain the subject, direction, and hierarchy",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The screen froze. The queue grew. We kept the old service running. Customers could still work.",
+      "after": "The screen froze and the queue grew, but we kept the old service running so customers could still work.",
+      "why": "One controlled sentence makes the relationship between events visible."
+    }
+  },
+  {
+    "id": 8,
+    "section": 1,
+    "original_paraphrase": "Build a pattern and then break it",
+    "diagnostic_fit": "Parallel units feel predictable or the payoff lacks surprise",
+    "expected_impact": "Rhythm followed by emphasis or reversal",
+    "guardrail": "Avoid formulaic three-beat LinkedIn rhetoric",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The tool saved a click, saved a tab, and caused an unexpected new problem.",
+      "after": "The tool saved a click. It saved a tab. It cost us a morning.",
+      "why": "A repeated construction creates an expectation the last sentence reverses; use only with sourced consequences."
+    }
+  },
+  {
+    "id": 9,
+    "section": 1,
+    "original_paraphrase": "Let punctuation shape movement",
+    "diagnostic_fit": "Meaning is clear but breath, grouping, or pace is wrong",
+    "expected_impact": "Better cadence and relationship signaling",
+    "guardrail": "Punctuation cannot rescue overloaded thinking",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Before you send the file check the name the date and the recipient.",
+      "after": "Before you send the file, check the name, the date, and the recipient.",
+      "why": "Punctuation clarifies grouping; it does not change the procedure."
+    }
+  },
+  {
+    "id": 10,
+    "section": 1,
+    "original_paraphrase": "Remove structural excess before word-level excess",
+    "diagnostic_fit": "The draft is bloated at section and sentence levels",
+    "expected_impact": "Larger clarity gain with less fussy polishing",
+    "guardrail": "Do not cut owned scenes or evidence merely to shorten",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A section repeats the same setup already established in the opening.",
+      "after": "Remove the redundant section before trimming individual adjectives.",
+      "why": "Structural pruning has greater value than polishing duplicated material."
+    }
+  },
+  {
+    "id": 11,
+    "section": 2,
+    "original_paraphrase": "Prefer ordinary language at difficult moments",
+    "diagnostic_fit": "Jargon or abstraction increases effort where the idea is already complex",
+    "expected_impact": "Easier one-pass understanding",
+    "guardrail": "Do not flatten necessary expert distinctions",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The retry layer instantiates an exponential temporal deferral.",
+      "after": "After each failure, the retry layer waits longer before trying again.",
+      "why": "Ordinary language helps at the difficult mechanism; retain a technical term when the audience needs it."
+    }
+  },
+  {
+    "id": 12,
+    "section": 2,
+    "original_paraphrase": "Manage distinctive-word territory",
+    "diagnostic_fit": "A notable word repeats accidentally or too closely",
+    "expected_impact": "Cleaner emphasis; repetition becomes intentional",
+    "guardrail": "Repetition may be the desired chain or refrain",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The remarkable interface produced a remarkable reduction in remarkable confusion.",
+      "after": "The interface reduced confusion.",
+      "why": "Repeated distinctive wording competes with the claim; retain deliberate refrain when it serves the piece."
+    }
+  },
+  {
+    "id": 13,
+    "section": 2,
+    "original_paraphrase": "Permit precise verbal play",
+    "diagnostic_fit": "The prose is accurate but lifeless",
+    "expected_impact": "Surprise, pleasure, and memorability",
+    "guardrail": "Reject cleverness that competes with truth or sounds generated",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "My spreadsheet kept getting larger.",
+      "after": "My spreadsheet was growing faster than my patience.",
+      "why": "A light original turn can earn attention when it fits the owner; it is not a sourced personal claim."
+    }
+  },
+  {
+    "id": 14,
+    "section": 2,
+    "original_paraphrase": "Replace generality with observable detail",
+    "diagnostic_fit": "Claims and scenes cannot be pictured",
+    "expected_impact": "Concreteness and credibility",
+    "guardrail": "Every vivid detail needs provenance and privacy clearance",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The operator struggled with the process.",
+      "after": "The operator copied the same address into three forms.",
+      "why": "Observable supplied detail replaces a vague assessment."
+    }
+  },
+  {
+    "id": 15,
+    "section": 2,
+    "original_paraphrase": "Use names when names carry meaning",
+    "diagnostic_fit": "Generic labels make people, places, or things interchangeable",
+    "expected_impact": "Specificity and attention",
+    "guardrail": "Rights, dignity, safety, and owner approval override color",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A regional library preserved the recordings.",
+      "after": "The county's named public archive preserved the recordings.",
+      "why": "Use the verified institution name when it helps identification; keep private individuals anonymous."
+    }
+  },
+  {
+    "id": 16,
+    "section": 2,
+    "original_paraphrase": "Replace inherited imagery with earned imagery",
+    "diagnostic_fit": "Cliches or first-thought metaphors weaken originality",
+    "expected_impact": "Distinctiveness and recall",
+    "guardrail": "A forced metaphor is worse than plain language",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The new rule was a game changer.",
+      "after": "The new rule removed the approval step that delayed every request.",
+      "why": "A concrete mechanism is stronger than an inherited metaphor."
+    }
+  },
+  {
+    "id": 17,
+    "section": 2,
+    "original_paraphrase": "Generate language through responsible association",
+    "diagnostic_fit": "The writer is stuck in predictable wording",
+    "expected_impact": "Broader lexical and image options",
+    "guardrail": "Inspiration cannot become imitation of another writer's voice",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Only the word fast comes to mind.",
+      "after": "Explore brisk, immediate, and responsive; choose responsive for a control that reacts promptly.",
+      "why": "Association expands options; semantic precision determines the final choice."
+    }
+  },
+  {
+    "id": 18,
+    "section": 2,
+    "original_paraphrase": "Vary sentence length to control speed",
+    "diagnostic_fit": "Every sentence moves at the same pace",
+    "expected_impact": "Deliberate acceleration, flow, or pause",
+    "guardrail": "Short sentences used constantly become synthetic and theatrical",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Three consecutive long sentences carry the setup, failure, and result at the same pace.",
+      "after": "Keep the setup flowing. Give the decisive failure a shorter sentence, then explain its consequence.",
+      "why": "Sentence length can change pace without turning the whole piece into fragments."
+    }
+  },
+  {
+    "id": 19,
+    "section": 2,
+    "original_paraphrase": "Vary paragraph scale to signal turns",
+    "diagnostic_fit": "A wall of text or uniform one-line blocks obscures hierarchy",
+    "expected_impact": "Better scanning, emphasis, and breath",
+    "guardrail": "Do not turn every sentence into a social-media paragraph",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "One large paragraph mixes the original process with the decision to replace it.",
+      "after": "Start a new paragraph when the decision changes the direction of the piece.",
+      "why": "Paragraph scale marks a meaningful turn, not every breath."
+    }
+  },
+  {
+    "id": 20,
+    "section": 2,
+    "original_paraphrase": "Choose list size deliberately",
+    "diagnostic_fit": "A list's count feels arbitrary or monotonous",
+    "expected_impact": "Clearer grouping and rhetorical expectation",
+    "guardrail": "Do not manufacture threes or omit necessary items for symmetry",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A checklist omits its fourth safety check to form a neat list of three.",
+      "after": "Keep all four checks.",
+      "why": "List rhythm cannot override required information; intentional count may mean preservation."
+    }
+  },
+  {
+    "id": 21,
+    "section": 2,
+    "original_paraphrase": "Match rhetorical volume to subject weight",
+    "diagnostic_fit": "Serious material is overwritten or light material is dull",
+    "expected_impact": "Better taste, trust, and tonal control",
+    "guardrail": "Understatement must not hide stakes; flair must not trivialize them",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The fatal incident is described with ornate imagery and dramatic adjectives.",
+      "after": "State what happened and who was affected in restrained, sourced language.",
+      "why": "Lower rhetorical volume lets grave facts carry their weight."
+    }
+  },
+  {
+    "id": 22,
+    "section": 2,
+    "original_paraphrase": "Move between examples and meaning",
+    "diagnostic_fit": "The passage stays entirely abstract or entirely anecdotal",
+    "expected_impact": "Readers can both picture and interpret the point",
+    "guardrail": "Do not infer a general rule from one scene without qualification",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A queue was long. Later the article announces that system capacity matters.",
+      "after": "Explain how the reported arrival rate exceeded the queue's processing rate.",
+      "why": "Connect a concrete example to the general mechanism without inferring a universal rule from one anecdote."
+    }
+  },
+  {
+    "id": 23,
+    "section": 2,
+    "original_paraphrase": "Tune for the owner's speaking voice",
+    "diagnostic_fit": "The copy is polished but does not sound owned",
+    "expected_impact": "Authentic cadence and easier oral flow",
+    "guardrail": "Voice is not a collection of manufactured quirks",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The author says 'I tried it'; the draft says 'I embarked on a transformative exploration.'",
+      "after": "Restore 'I tried it' when the owner approves that wording.",
+      "why": "Specific owner evidence defeats generic polish; one phrase is not a universal voice model."
+    }
+  },
+  {
+    "id": 24,
+    "section": 3,
+    "original_paraphrase": "Make the large-part plan visible",
+    "diagnostic_fit": "Sections do not have distinct jobs or logical order",
+    "expected_impact": "Coherent macro-structure",
+    "guardrail": "A new plan cannot silently replace the confirmed premise",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "An article jumps from a result to setup to unrelated background.",
+      "after": "Arrange the necessary context, decision, and consequence so each section has a job.",
+      "why": "Large-part organization clarifies the argument while protecting the agreed premise."
+    }
+  },
+  {
+    "id": 25,
+    "section": 3,
+    "original_paraphrase": "Decide whether the reader needs information or experience",
+    "diagnostic_fit": "A report is dressed as a story, or a story withholds necessary facts",
+    "expected_impact": "Correct content mode",
+    "guardrail": "Many pieces legitimately combine both modes",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A troubleshooting checklist opens with an invented scene.",
+      "after": "Begin with the symptom and the checks.",
+      "why": "A reader seeking a procedure needs information, not compulsory narrative."
+    }
+  },
+  {
+    "id": 26,
+    "section": 3,
+    "original_paraphrase": "Use spoken exchange to cause movement",
+    "diagnostic_fit": "Quotations decorate rather than change the scene",
+    "expected_impact": "Character, conflict, and action",
+    "guardrail": "Never invent dialogue or convert paraphrase into quotation",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A quotation merely repeats the preceding summary.",
+      "after": "Retain the verified exchange that changed the decision; paraphrase the redundant quotation.",
+      "why": "Dialogue earns space by moving events, never by invented realism."
+    }
+  },
+  {
+    "id": 27,
+    "section": 3,
+    "original_paraphrase": "Reveal character through evidence",
+    "diagnostic_fit": "Adjectives tell readers who someone is without showing behavior",
+    "expected_impact": "More believable characterization",
+    "guardrail": "One behavior does not establish a total identity",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The maintainer is conscientious.",
+      "after": "The supplied log shows the maintainer checking the rollback before every release.",
+      "why": "Behavior supports characterization without claiming it proves an entire personality."
+    }
+  },
+  {
+    "id": 28,
+    "section": 3,
+    "original_paraphrase": "Create meaning through juxtaposition",
+    "diagnostic_fit": "Two revealing facts or frames sit apart and never interact",
+    "expected_impact": "Contrast, surprise, or insight",
+    "guardrail": "Proximity must not imply unsupported causation",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "One paragraph reports a fast demo; several pages later another reports slow daily use.",
+      "after": "Place the sourced demo time beside the sourced routine-use time.",
+      "why": "Juxtaposition makes the contrast available; it does not prove why the times differ."
+    }
+  },
+  {
+    "id": 29,
+    "section": 3,
+    "original_paraphrase": "Prepare the reader for the ending",
+    "diagnostic_fit": "A conclusion arrives without groundwork",
+    "expected_impact": "Stronger inevitability and payoff",
+    "guardrail": "Avoid heavy-handed clues that announce the ending",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The ending depends on a constraint the reader has never encountered.",
+      "after": "Introduce the verified constraint where it first affected the decision.",
+      "why": "Prepare the ending without announcing a moral."
+    }
+  },
+  {
+    "id": 30,
+    "section": 3,
+    "original_paraphrase": "Delay selected answers to sustain momentum",
+    "diagnostic_fit": "The middle resolves every question immediately",
+    "expected_impact": "Curiosity and continuation",
+    "guardrail": "Do not manufacture suspense by withholding necessary context",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "An investigation resolves every question in its opening summary although the reader wants to follow the discovery.",
+      "after": "Give necessary orientation, then let the verified sequence answer the remaining question.",
+      "why": "Delay can sustain curiosity, but safety instructions should not withhold essential answers."
+    }
+  },
+  {
+    "id": 31,
+    "section": 3,
+    "original_paraphrase": "Give the piece an engine question",
+    "diagnostic_fit": "The draft has a topic but no tension the reader wants resolved",
+    "expected_impact": "Direction and momentum",
+    "guardrail": "The question must arise from the story, not clickbait",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The article names a topic: small-team automation.",
+      "after": "Organize it around the actual decision: which step should this team automate first?",
+      "why": "A real unresolved question gives the piece direction without clickbait."
+    }
+  },
+  {
+    "id": 32,
+    "section": 3,
+    "original_paraphrase": "Distribute rewards through the middle",
+    "diagnostic_fit": "The opening and ending work but the middle sags",
+    "expected_impact": "Continued attention through examples, facts, scenes, or turns",
+    "guardrail": "A reward must advance the governing idea, not decorate it",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The middle restates the opening claim for three paragraphs.",
+      "after": "Replace repetition with a supplied counterexample that sharpens the claim.",
+      "why": "A useful turn rewards attention while advancing the same idea."
+    }
+  },
+  {
+    "id": 33,
+    "section": 3,
+    "original_paraphrase": "Chain parts with intentional recurrence",
+    "diagnostic_fit": "Sections feel disconnected or a key motif deserves return",
+    "expected_impact": "Cohesion and memory",
+    "guardrail": "Accidental repetition remains clutter",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Three sections each use a different label for the same unresolved approval.",
+      "after": "Return to the same precise approval label at each consequential turn.",
+      "why": "Intentional recurrence connects parts; it cannot substitute for a missing logical bridge."
+    }
+  },
+  {
+    "id": 34,
+    "section": 3,
+    "original_paraphrase": "Change narrative distance and angle",
+    "diagnostic_fit": "A scene is spatially flat or hard to picture",
+    "expected_impact": "Cinematic orientation and emphasis",
+    "guardrail": "Do not fabricate physical detail or over-direct a short post",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The scene stays in a vague office description.",
+      "after": "Use the supplied overall setting, then the visible warning on the operator's screen.",
+      "why": "A change in narrative distance directs attention without inventing camera-like detail."
+    }
+  },
+  {
+    "id": 35,
+    "section": 3,
+    "original_paraphrase": "Build with scenes and sequence them",
+    "diagnostic_fit": "The draft summarizes lived experience without rendering decisive moments",
+    "expected_impact": "Experience, proof, and narrative movement",
+    "guardrail": "A scene must be sourced and earn its space",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The draft summarizes a documented choice without showing its decisive moment.",
+      "after": "Render the recorded choice and its immediate consequence, then return to explanation.",
+      "why": "A sourced scene makes the decision observable; a checklist may not need one."
+    }
+  },
+  {
+    "id": 36,
+    "section": 3,
+    "original_paraphrase": "Combine narrative and explanatory modes",
+    "diagnostic_fit": "Pure story lacks interpretation or pure exposition lacks experience",
+    "expected_impact": "Richer transfer of fact and meaning",
+    "guardrail": "Mode changes need clear transitions and purpose",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A short anecdote is followed by an unexplained abstract lesson.",
+      "after": "Explain the mechanism revealed by the anecdote, then show its limits.",
+      "why": "A purposeful change of mode connects experience and explanation."
+    }
+  },
+  {
+    "id": 37,
+    "section": 3,
+    "original_paraphrase": "Make short work carry only essential weight",
+    "diagnostic_fit": "A short-form piece spends words without advancing meaning, voice, proof, or rhythm",
+    "expected_impact": "Compression and polish",
+    "guardrail": "Brevity must not remove claim limits or humanity",
+    "review_reach": "Direct",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A short notice includes a long company history before the deadline.",
+      "after": "Keep the deadline, required action, exception, and contact; remove unrelated history.",
+      "why": "Short work carries essentials, including qualifications—not simply fewer words."
+    }
+  },
+  {
+    "id": 38,
+    "section": 3,
+    "original_paraphrase": "Use durable human patterns without caricature",
+    "diagnostic_fit": "Character framing relies on stereotypes or shallow labels",
+    "expected_impact": "Resonance without reduction",
+    "guardrail": "Archetypal framing can also become a cliche; people remain specific",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The customer is framed as a helpless novice.",
+      "after": "Describe the specific obstacle and the choices the customer made.",
+      "why": "A recognizable struggle need not erase agency or turn people into types."
+    }
+  },
+  {
+    "id": 39,
+    "section": 3,
+    "original_paraphrase": "Revise in the direction of the ending",
+    "diagnostic_fit": "The ending feels appended or earlier material does not support it",
+    "expected_impact": "Closure and cumulative meaning",
+    "guardrail": "Do not reverse-engineer false inevitability",
+    "review_reach": "Structural",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The ending introduces a new promise absent from the body.",
+      "after": "Close on the demonstrated result, or reopen the story contract before pursuing the new promise.",
+      "why": "The conclusion should emerge from the work rather than exceed it."
+    }
+  },
+  {
+    "id": 40,
+    "section": 4,
+    "original_paraphrase": "State the writing mission and reflect on what the writer is learning",
+    "diagnostic_fit": "The draft drifts because its reader change or purpose is unclear",
+    "expected_impact": "Better selection and revision decisions",
+    "guardrail": "The mission must match the owner-confirmed story contract",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "intake",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The writer's only goal is to sound impressive.",
+      "after": "State the reader change and one craft habit the writer wants to improve.",
+      "why": "The piece mission is an adaptation alongside reflection on the writer's learning."
+    }
+  },
+  {
+    "id": 41,
+    "section": 4,
+    "original_paraphrase": "Convert delay into mental rehearsal",
+    "diagnostic_fit": "Work is postponed without productive incubation",
+    "expected_impact": "Better preparation before drafting",
+    "guardrail": "Rehearsal cannot become indefinite avoidance",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "draft"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The writer postpones a draft indefinitely.",
+      "after": "Rehearse the order briefly, capture the opening idea, then return to the agreed drafting checkpoint.",
+      "why": "Mental preparation is useful only when it leads back to work; agents should not simulate lived incubation."
+    }
+  },
+  {
+    "id": 42,
+    "section": 4,
+    "original_paraphrase": "Complete evidence work before deadline pressure",
+    "diagnostic_fit": "Missing research forces weak claims or generic filler",
+    "expected_impact": "More credible and specific copy",
+    "guardrail": "Research must stay within authorized scope",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "research"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A deadline arrives before the load-bearing source has been checked.",
+      "after": "Verify that source before drafting its claim or mark the claim unavailable.",
+      "why": "Preparation prevents deadline-driven invention; scope still limits access."
+    }
+  },
+  {
+    "id": 43,
+    "section": 4,
+    "original_paraphrase": "Read models for construction as well as subject",
+    "diagnostic_fit": "The writer consumes examples without noticing craft choices",
+    "expected_impact": "Better pattern recognition",
+    "guardrail": "Study must not turn into voice copying",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "research",
+      "draft"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A sample article is copied for its fashionable phrases.",
+      "after": "Study where it introduces evidence and counterargument; write new language for this piece.",
+      "why": "Read construction without copying another author's voice."
+    }
+  },
+  {
+    "id": 44,
+    "section": 4,
+    "original_paraphrase": "Preserve useful fragments for later",
+    "diagnostic_fit": "Strong details, phrases, and evidence are lost between projects",
+    "expected_impact": "A richer source reservoir",
+    "guardrail": "Stored material needs provenance, privacy, and retrieval discipline",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "research",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "An approved useful fragment is lost after a review.",
+      "after": "Save it in the authorized project with source, date, and public-use limits.",
+      "why": "A reusable reservoir needs custody; this does not authorize a vault scan."
+    }
+  },
+  {
+    "id": 45,
+    "section": 4,
+    "original_paraphrase": "Divide long work into finishable units",
+    "diagnostic_fit": "Scale creates paralysis or inconsistent assembly",
+    "expected_impact": "Manageable progress and clearer integration",
+    "guardrail": "Parts must still serve one governing idea",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "draft"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "A long report is drafted as unrelated chunks.",
+      "after": "Assign each chunk a role under the same premise and integrate their transitions.",
+      "why": "Finishable units reduce overload but still need whole-piece assembly."
+    }
+  },
+  {
+    "id": 46,
+    "section": 4,
+    "original_paraphrase": "Understand adjacent crafts and collaborators",
+    "diagnostic_fit": "Writing ignores design, reporting, editing, or production constraints",
+    "expected_impact": "Better handoffs and total artifact quality",
+    "guardrail": "Adjacent craft must not distort the story or expand authority",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "publication_handoff"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The draft assumes a chart will prove a claim the data cannot support.",
+      "after": "Discuss the chart's evidentiary limits in the design handoff.",
+      "why": "Adjacent craft informs writing without granting authority to publish visuals."
+    }
+  },
+  {
+    "id": 47,
+    "section": 4,
+    "original_paraphrase": "Build a trusted feedback circle",
+    "diagnostic_fit": "Review depends on one perspective or generic praise",
+    "expected_impact": "More useful criticism and blind spots surfaced",
+    "guardrail": "Reviewers need clear roles; consensus is not truth",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Three reviewers all answer 'looks good.'",
+      "after": "Ask one about comprehension, one about evidence, and the owner about voice.",
+      "why": "Distinct feedback roles reveal different failures; consensus is not truth."
+    }
+  },
+  {
+    "id": 48,
+    "section": 4,
+    "original_paraphrase": "Separate generative freedom from editorial judgment",
+    "diagnostic_fit": "Early drafting is strangled by premature criticism",
+    "expected_impact": "More material and less self-censorship",
+    "guardrail": "Once the draft exists, disciplined review must resume",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "draft",
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Every rough opening is polished before a body exists.",
+      "after": "Draft a provisional body, then judge which opening serves it.",
+      "why": "Separate generation from editing while keeping unsupported claims marked."
+    }
+  },
+  {
+    "id": 49,
+    "section": 4,
+    "original_paraphrase": "Extract signal from criticism",
+    "diagnostic_fit": "Feedback triggers defensiveness or indiscriminate compliance",
+    "expected_impact": "Better revision judgment",
+    "guardrail": "Critics can be wrong; trace each change to purpose and evidence",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "Every suggested edit is accepted because a reviewer proposed it.",
+      "after": "Compare each suggestion to purpose, evidence, and owner intent; keep or reject with a reason.",
+      "why": "Criticism becomes a testable input rather than an instruction to obey."
+    }
+  },
+  {
+    "id": 50,
+    "section": 4,
+    "original_paraphrase": "Make the toolkit adaptable and owned",
+    "diagnostic_fit": "The writer follows formulas without judgment",
+    "expected_impact": "Durable craft and appropriate tool choice",
+    "guardrail": "Mastery does not remove the need for reader testing",
+    "review_reach": "Workflow",
+    "operational_confidence": "Confirmed",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "poynter-quick-list",
+    "source_limit": "Core principle checked against retained primary quick list; diagnostic application and example are local adaptations, not full-chapter verification.",
+    "example": {
+      "before": "The writer applies every numbered tool to every draft.",
+      "after": "Select only techniques that address observed friction, and preserve effective choices.",
+      "why": "An owned toolkit adapts to the work instead of enforcing a checklist."
+    }
+  },
+  {
+    "id": 51,
+    "section": 5,
+    "original_paraphrase": "Use quantities as narrative structure",
+    "diagnostic_fit": "Counts, sequence, duration, or scale are present but do not shape the story",
+    "expected_impact": "Orientation, escalation, contrast, or closure",
+    "guardrail": "Do not force numerology or imply precision the evidence cannot support",
+    "review_reach": "Direct / Structural",
+    "operational_confidence": "Inferred",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "bonus-title-order",
+    "source_limit": "Title and order corroborated; meaning is a provisional local interpretation, not verified chapter doctrine.",
+    "example": {
+      "before": "The paragraph lists 2 minutes, 2 hours, and 2 days without explaining their relationship.",
+      "after": "If verified, distinguish response time, repair time, and full recovery time.",
+      "why": "Provisional adaptation: quantities can orient the reader when measurement meanings remain explicit."
+    }
+  },
+  {
+    "id": 52,
+    "section": 5,
+    "original_paraphrase": "Isolate the central thought in its shortest honest form",
+    "diagnostic_fit": "The governing idea is buried in explanation",
+    "expected_impact": "Emphasis, recall, and a strong turn or ending",
+    "guardrail": "Avoid generic mic-drop sentences and false profundity",
+    "review_reach": "Direct",
+    "operational_confidence": "Inferred",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "bonus-title-order",
+    "source_limit": "Title and order corroborated; meaning is a provisional local interpretation, not verified chapter doctrine.",
+    "example": {
+      "before": "The paragraph buries its central observation in repeated explanation.",
+      "after": "State the shortest accurate version of the observation and retain its necessary limit.",
+      "why": "Provisional adaptation: compression is not permission to manufacture a mic-drop."
+    }
+  },
+  {
+    "id": 53,
+    "section": 5,
+    "original_paraphrase": "Match word choice to purpose",
+    "diagnostic_fit": "Vocabulary is mismatched to audience, content job, or emotional register",
+    "expected_impact": "Better comprehension and tonal fitness",
+    "guardrail": "Purpose-fit is not an excuse to erase owner voice",
+    "review_reach": "Direct",
+    "operational_confidence": "Inferred",
+    "phases": [
+      "review"
+    ],
+    "source_ref": "bonus-title-order",
+    "source_limit": "Title and order corroborated; meaning is a provisional local interpretation, not verified chapter doctrine.",
+    "example": {
+      "before": "A public explainer uses a specialist term without definition.",
+      "after": "Define the term in familiar language, then use it consistently.",
+      "why": "Provisional adaptation: vocabulary serves the reader and purpose without erasing precision."
+    }
+  },
+  {
+    "id": 54,
+    "section": 5,
+    "original_paraphrase": "Accumulate details to reveal a person",
+    "diagnostic_fit": "A single anecdote or adjective carries too much characterization",
+    "expected_impact": "Nuanced character through converging evidence",
+    "guardrail": "Details require provenance, privacy review, and proportional inference",
+    "review_reach": "Structural",
+    "operational_confidence": "Inferred",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "bonus-title-order",
+    "source_limit": "Title and order corroborated; meaning is a provisional local interpretation, not verified chapter doctrine.",
+    "example": {
+      "before": "One event is used to declare a person's permanent character.",
+      "after": "Use several verified observations and qualify what they suggest.",
+      "why": "Provisional adaptation: accumulated evidence supports a more proportionate portrait."
+    }
+  },
+  {
+    "id": 55,
+    "section": 5,
+    "original_paraphrase": "Locate the event that starts consequential movement",
+    "diagnostic_fit": "The story begins before or after its actual catalytic moment",
+    "expected_impact": "A clearer opening, causal sequence, and narrative engine",
+    "guardrail": "Do not invent drama or overstate causation",
+    "review_reach": "Structural",
+    "operational_confidence": "Inferred",
+    "phases": [
+      "story_lock",
+      "review"
+    ],
+    "source_ref": "bonus-title-order",
+    "source_limit": "Title and order corroborated; meaning is a provisional local interpretation, not verified chapter doctrine.",
+    "example": {
+      "before": "The story starts years before anything relevant changes.",
+      "after": "Start near the documented event that triggered the decision and add only needed context.",
+      "why": "Provisional adaptation: a consequential start is not necessarily a dramatic or causal claim."
+    }
+  }
+]
